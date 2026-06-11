@@ -3,7 +3,7 @@
 > Requirements and Verification Standards for Artificial Intelligence in Safety-Critical Applications
 
 **Issuing Authority:** Safety Critical Labs | AI Certification Authority
-**Version:** 3.0 | May 2026
+**Version:** 3.1 | May 2026
 **Status:** ([https://zenodo.org/badge/DOI/10.5281/zenodo.19024421.svg)](https://doi.org/10.5281/zenodo.19024421](https://doi.org/10.5281/zenodo.20060591))
 
 > The DOI above points to the most recent deposited version on Zenodo. Each Zenodo release receives its own version DOI; the Concept DOI above always resolves to the latest version. Update this badge when the v3.0 deposit is minted.
